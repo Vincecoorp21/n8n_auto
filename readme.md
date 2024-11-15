@@ -96,4 +96,3 @@ A higher value (close to 1) increases randomness and creativity, making the resp
 This workflow in n8n takes two CSV files (one with images and another with product data), combines them using the id field, and then automatically generates product descriptions using OpenAI. Finally, the descriptions and data are consolidated into a CSV file that is generated as output.
 
 This type of workflow automates a task that would normally take a lot of time if done manually, which can be very useful in an e-commerce context where creating personalized content for many products is essential.
-# n8n_auto
