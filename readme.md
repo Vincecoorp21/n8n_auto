@@ -55,7 +55,7 @@ Nodes are connected to each other to create more complex automated workflows. Fo
 
 This way, all the characteristics of each product are unified into a single data block.
 
-Since the image file contained more information than the data file, I joined them using a LEFT JOIN (Enrich input 1 in the node) (see SQL info. I'm attaching a quite comprehensive course: SQLBolt that I discovered thanks to the great Miguel Ángel Durán García).
+Since the image file contained more information than the data file, I joined them using a LEFT JOIN (Enrich input 1 in the node) (see SQL info. I'm attaching a quite comprehensive course: https://sqlbolt.com/ that I discovered thanks to the great @midudev).
 
 ![Merge_mode](src/merge_node.png)
 
